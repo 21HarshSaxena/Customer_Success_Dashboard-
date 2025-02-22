@@ -86,5 +86,7 @@ The Customer Success Dashboard provides valuable insights into sales performance
 ### Data Utilization
    - Leverage customer acquisition and satisfaction metrics to refine business strategies.
 
+![img (3)](https://github.com/user-attachments/assets/3b7261f5-0f1f-41fc-be95-d0569ece24e9)
+
 ## Conclusion
 The Customer Success Dashboard highlights areas of excellence and opportunities for improvement. By focusing on high-revenue products, optimizing delivery processes, and enhancing customer engagement, the business can achieve sustainable growth and higher customer satisfaction.
